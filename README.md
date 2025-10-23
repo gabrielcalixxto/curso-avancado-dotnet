@@ -1,4 +1,4 @@
-# MyRecipeBook API
+# MyRecipeBook API (apenas formação de estrutura de API no padrão DDD)
 
 **MyRecipeBook** é uma **API RESTful** desenvolvida em **.NET 9**, estruturada segundo os princípios do **Domain-Driven Design (DDD)**. O projeto é organizado em camadas para facilitar manutenção, escalabilidade e separação de responsabilidades.
 
@@ -27,9 +27,7 @@
 
 ## 🚀 Funcionalidades Principais
 
-- Cadastro de receitas via `POST /recipe`
-- Retorno com status HTTP adequado (`201 Created`)
-- Estrutura pronta para expansão: endpoints `GET`, `PUT`, `DELETE`, autenticação, etc.
+- Teste de API pelo no endpoint /recipe
 
 ---
 
